@@ -8,3 +8,7 @@ https://shopee.vn/product/364070088/22227537765/)__ - USB-C programer mini for E
 - __[Linhkienthuduc.com tại đây](https://linhkienthuduc.com/mach-nap-esp32-esp8266-cong-type-c-v1)__ - Mua các mặt hàng do TDMAKER sản xuất hoặc các sản phẩm ESP32 ở shop với hóa đơn trên 200k inbox zalo để được tặng 1 cái test thử nhé!
 
 You will like those projects!
+
+--- 
+
+Driver download: http://www.wch.cn/download/CH341SER_ZIP.html
