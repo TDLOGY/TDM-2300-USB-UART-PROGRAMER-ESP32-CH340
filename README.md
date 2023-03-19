@@ -12,3 +12,6 @@ You will like those projects!
 --- 
 
 Driver download: http://www.wch.cn/download/CH341SER_ZIP.html
+
+![Minion](https://github.com/TDLOGY/TDM-2300-USB-UART-PROGRAMER-ESP32-CH340/blob/main/USB%20UART%20CH340%201.png)
+![Minion](https://github.com/TDLOGY/TDM-2300-USB-UART-PROGRAMER-ESP32-CH340/blob/main/USB-Uart%203.jpg)
